@@ -1,1 +1,2 @@
 # desafio5-lab1-facul
+#Trabalho desenvolvido para a disciplina de Laboratório 1 do curso de ADS da Unisinos. O trabalho consiste na criação classes para o estudo de Herança e Polimorfismo. No meu trabalho, a Classe Transporte possui placa do veículo, modelo e gasto mensal (heranças), juntamente com a classe Carro, Van Escolar e Ônibus. Possui um método calculaGastoMensal em cada classe (exceto classe Teste e Transporte), que calcula quanto o aluno gasta por mês para ir a aula, dependendo do transporte utilizado.
